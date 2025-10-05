@@ -35,14 +35,14 @@ _Thank you!_
 ### Lab Reports
 | Report | File |
 |--------|------|
-| Lab 1A-B | [1-a-b.pdf](1-a-b.pdf) |
-| Lab 1C-D | [1-c-d.pdf](1-c-d.pdf) |
-| Lab 2 | [2.pdf](2.pdf) |
-| Lab 3A | [3-a.pdf](3-a.pdf) |
-| Lab 3B | [3-b.pdf](3-b.pdf) |
-| Lab 3C | [3-c.pdf](3-c.pdf) |
-| Lab 4 | [4-a-b-c (8).pdf](4-a-b-c%20(8).pdf) |
-| Lab 5 | [5 (9).pdf](5%20(9).pdf) |
+| Lab 1A-B | [1-a-b.pdf](reports/1-a-b.pdf) |
+| Lab 1C-D | [1-c-d.pdf](reports/1-c-d.pdf) |
+| Lab 2 | [2.pdf](reports/2.pdf) |
+| Lab 3A | [3-a.pdf](reports/3-a.pdf) |
+| Lab 3B | [3-b.pdf](reports/3-b.pdf) |
+| Lab 3C | [3-c.pdf](reports/3-c.pdf) |
+| Lab 4 | [4-a-b-c (8).pdf](reports/4-a-b-c%20(8).pdf) |
+| Lab 5 | [5 (9).pdf](reports/5%20(9).pdf) |
 
 
 
