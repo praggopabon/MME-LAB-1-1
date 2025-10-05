@@ -25,4 +25,7 @@ _Thank you!_
    - b. Hands-on  experience  on manufacturing  fibre-reinforced  polymer  composite  using  hand  layup  technique.
    - c. Tensile test of polymer and polymer composites.
 
-9. **Construction of a Pb-Sn phase diagram using cooling curve method.** 
+9. **Construction of a Pb-Sn phase diagram using cooling curve method.**
+
+### Study of an object from Materials Engineering perspective
+* Materials analysis of different components of a dental brace
