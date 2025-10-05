@@ -29,7 +29,7 @@ _Thank you!_
 
 ### Study of an object from Materials Engineering perspective
 * Materials analysis of different components of a dental brace
-[Materials of Dental Braces](Materials%20of%20Dental%20Bra...)
+[Materials of Dental Braces](Materials%of%Dental%Braces%2311002.pdf)
 
 ---
 ### Lab Reports
