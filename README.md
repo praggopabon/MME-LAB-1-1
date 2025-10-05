@@ -31,6 +31,7 @@ _Thank you!_
 * Materials analysis of different components of a dental brace
 [Materials of Dental Braces](Materials%20of%20Dental%20Bra...)
 
+---
 ### Lab Reports
 | Report | File |
 |--------|------|
@@ -46,4 +47,4 @@ _Thank you!_
 
 
 
----
+
